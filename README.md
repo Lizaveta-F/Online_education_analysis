@@ -27,5 +27,7 @@ The model shows that 60.2% of the variability in the number of subscribers can b
 So I can conclude, that there is no significant relationship between the number of subscribers and the course price, indicating that course 
 price may not be the only factor that determines the number of subscribers.
 
+
+
 ###Tableau vizz: https://public.tableau.com/app/profile/lizaveta3622/viz/OnlineeducationonUdemy/
 
