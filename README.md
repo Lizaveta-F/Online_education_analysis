@@ -6,7 +6,7 @@ Original sourse of data is taken from Kaggle: https://www.kaggle.com/datasets/an
 
 
 ###For this data analysis I have to:
-#0969DA Clean the data: with the help of Excel or PowerQuery I remove any duplicates, missing values, or irrelevant data.
+`#0969DA` Clean the data: with the help of Excel or PowerQuery I remove any duplicates, missing values, or irrelevant data.
 `rgb(9, 105, 218)` Import data into SQL: I used SQL SErver Management Studio to create a new SQL database online_courses and import the cleaned data into it. 
 `rgb(9, 105, 218)` Analyze the data using SQL. With the help of aggregation functions, filtering, CTE and joins I analyzed the data to get the insights of complexity, popularity, 
 cost and correlation between different factors like duration of courses and price. (The SQL code is attached to the repository)
