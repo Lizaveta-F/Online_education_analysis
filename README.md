@@ -6,11 +6,11 @@ Original sourse of data is taken from Kaggle: https://www.kaggle.com/datasets/an
 
 
 ###For this data analysis I have to:
-`#0969DA` Clean the data: with the help of Excel or PowerQuery I remove any duplicates, missing values, or irrelevant data.
-`rgb(9, 105, 218)` Import data into SQL: I used SQL SErver Management Studio to create a new SQL database online_courses and import the cleaned data into it. 
-`rgb(9, 105, 218)` Analyze the data using SQL. With the help of aggregation functions, filtering, CTE and joins I analyzed the data to get the insights of complexity, popularity, 
+1) Clean the data: with the help of Excel or PowerQuery I remove any duplicates, missing values, or irrelevant data.
+2) Import data into SQL: I used SQL SErver Management Studio to create a new SQL database online_courses and import the cleaned data into it. 
+3) Analyze the data using SQL. With the help of aggregation functions, filtering, CTE and joins I analyzed the data to get the insights of complexity, popularity, 
 cost and correlation between different factors like duration of courses and price. (The SQL code is attached to the repository)
-`rgb(9, 105, 218)` Create visualizations in Tableau: for this I imported the data from csv file with cleaned dataset into Tableau Public and created visualizations
+4) Create visualizations in Tableau: for this I imported the data from csv file with cleaned dataset into Tableau Public and created visualizations
 to explore the data. 
 
 
